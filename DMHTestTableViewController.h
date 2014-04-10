@@ -1,5 +1,5 @@
 //
-//  DMHViewController.h
+//  DMHTestTableViewController.h
 //  UITableViewControllerChallengeSolution
 //
 //  Created by Diane Hoffstetter on 4/9/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface DMHViewController : UIViewController
+@interface DMHTestTableViewController : UITableViewController
 
 @end
